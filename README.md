@@ -24,9 +24,9 @@ In the output, you'll find options to open the app in a
 - ▶️ [Интерфейс и навигация (UI)](https://drive.google.com/file/d/1lUW71eLSJUleIMhbxkc1QGscd5wE0hrK/view?usp=sharing)
 - ▶️ [Избранное и переходы](https://drive.google.com/file/d/1MeA8Ui6KR2cR-_Q-Lpv7ial2YPl-KmPH/view?usp=sharing)
 
-## 📊 Презентация (будет позже)
+## 📊 Презентация
 
-- 📎 [Google Drive (PDF / PPTX)](https://drive.google.com/...)
+- 📎 [Google Drive (PDF / PPTX)](https://drive.goo)
 
 ## 📁 Установка
 
